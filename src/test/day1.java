@@ -15,5 +15,11 @@ public class day1 {
 	{
 		System.out.println("hari!!!");
 	}
+	
+	@Test
+	public void demo3()
+	{
+		System.out.println("prasad!!!");
+	}
 
 }
