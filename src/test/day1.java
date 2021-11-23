@@ -13,13 +13,13 @@ public class day1 {
 	@Test
 	public void demo2()
 	{
-		System.out.println("hari!!!");
+		System.out.println("Hari!!!");
 	}
 	
 	@Test
 	public void demo3()
 	{
-		System.out.println("prasad!!!");
+		System.out.println("Prasad!!!");
 	}
 
 }
