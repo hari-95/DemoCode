@@ -13,7 +13,6 @@ public class day1 {
 	@Test
 	public void demo2()
 	{
-		System.out.println("world!!!");
 		System.out.println("hari!!!");
 	}
 
