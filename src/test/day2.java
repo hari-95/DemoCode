@@ -9,5 +9,10 @@ public class day2 {
 	{
 		System.out.println("welcome");
 	}
+	@Test
+	public void demo2()
+	{
+		System.out.println("hp");
+	}
 
 }
