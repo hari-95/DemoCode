@@ -14,6 +14,7 @@ public class day1 {
 	public void demo2()
 	{
 		System.out.println("world!!!");
+		System.out.println("hari!!!");
 	}
 
 }
