@@ -16,10 +16,5 @@ public class day1 {
 		System.out.println("Hari!!!");
 	}
 	
-	@Test
-	public void demo3()
-	{
-		System.out.println("Prasad!!!");
-	}
 
 }
